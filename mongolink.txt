@@ -1,0 +1,2 @@
+link: mongodb+srv://admin:VG6rjaeouog82q4c@database.p2gtu3q.mongodb.net/?retryWrites=true&w=majority&appName=Database
+pass: VG6rjaeouog82q4c
